@@ -14,7 +14,7 @@ Script by MoBakour (https://bakour.dev)
     max = 40,
     instant = false,
     pause = 30,
-    initialPause = 700
+    initialPause = 400
 ) => {
     lang = lang.toLowerCase().trim();
 
