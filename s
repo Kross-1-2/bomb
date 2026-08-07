@@ -10,10 +10,10 @@ Script by MoBakour (https://bakour.dev)
     autotype = true,
     selfOnly = true,
     lang = "en",
-    min = 9,
+    min = 15,
     max = 40,
     instant = false,
-    pause = 60,
+    pause = 30,
     initialPause = 700
 ) => {
     lang = lang.toLowerCase().trim();
