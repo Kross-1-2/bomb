@@ -10,7 +10,7 @@ Script by MoBakour (https://bakour.dev)
     autotype = true,
     selfOnly = true,
     lang = "en",
-    min = 20,
+    min = 15,
     max = 40,
     instant = false,
     pause = 35,
