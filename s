@@ -1,4 +1,3 @@
-```js
 (async (
     autotype = true,
     selfOnly = true,
@@ -179,4 +178,3 @@
         }
     });
 })();
-```
